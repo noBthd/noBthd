@@ -1,4 +1,4 @@
-<h3 align="center">WTH DEV FROM RUSSIA</h3>
+<h3 align="center">WTF DEV FROM RUSSIA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
